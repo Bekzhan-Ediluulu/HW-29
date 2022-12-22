@@ -1,3 +1,5 @@
+package Task1;
+
 import java.util.Comparator;
 
 public class Main {
@@ -20,7 +22,9 @@ public class Main {
         Printer.print(cats);
 
         System.out.println("Remove by color");
-        cats.removeIf(cat -> cat.getColor() == Cat.Color.SILVER);
+        Cat.Color colorForRemove = Cat.Color.SILVER;
+        cats.removeIf(cat -> cat.getColor() == colorForRemove);
+        System.out.println("Removed color: "+colorForRemove);
         Printer.print(cats);
 
         System.out.println("Remove by number length 5");
