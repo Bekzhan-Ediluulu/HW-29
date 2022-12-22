@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb798f5-5284-4ad0-b8e8-00c0968e9362" name="Changes" comment="Completed the first task">
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Printer.java" afterDir="false" />
+    <list default="true" id="efb798f5-5284-4ad0-b8e8-00c0968e9362" name="Changes" comment="Added a new package for the first task and changed removing by color part">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/ActiveCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/notni/IdeaProjects/HW-29/src",
+    "last_opened_file_path": "C:/Users/notni/IdeaProjects/HW-29/src/Task2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\notni\IdeaProjects\HW-29\src\Task2" />
       <recent name="C:\Users\notni\IdeaProjects\HW-29\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -55,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671686129846</updated>
-      <workItem from="1671686133040" duration="7837000" />
+      <workItem from="1671686133040" duration="11684000" />
     </task>
     <task id="LOCAL-00001" summary="Completed the first task">
       <created>1671699739991</created>
@@ -64,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671699739991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a new package for the first task and changed removing by color part">
+      <created>1671700777507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671700777507</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed the first task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the first task" />
+    <MESSAGE value="Added a new package for the first task and changed removing by color part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a new package for the first task and changed removing by color part" />
   </component>
 </project>
