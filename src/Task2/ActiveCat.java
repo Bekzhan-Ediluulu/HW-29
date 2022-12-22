@@ -44,5 +44,7 @@ public final class ActiveCat {
     public static String eat() {
         return "Я кушаю!";
     }
+    public static String run() { return "Я бегаю!";}
+    public static String doSport() { return "Я занимаюсь спортом!";}
     /*****/
 }

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb798f5-5284-4ad0-b8e8-00c0968e9362" name="Changes" comment="Added a new package for the first task and changed removing by color part">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/ActiveCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
+    <list default="true" id="efb798f5-5284-4ad0-b8e8-00c0968e9362" name="Changes" comment="Solved problems of the second task">
+      <change beforePath="$PROJECT_DIR$/src/Task2/ActiveCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/ActiveCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671686129846</updated>
-      <workItem from="1671686133040" duration="11684000" />
+      <workItem from="1671686133040" duration="12040000" />
     </task>
     <task id="LOCAL-00001" summary="Completed the first task">
       <created>1671699739991</created>
@@ -80,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671700777507</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solved problems of the second task">
+      <created>1671705020991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671705020991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed the first task" />
     <MESSAGE value="Added a new package for the first task and changed removing by color part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a new package for the first task and changed removing by color part" />
+    <MESSAGE value="Solved problems of the second task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved problems of the second task" />
   </component>
 </project>

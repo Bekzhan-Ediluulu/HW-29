@@ -8,6 +8,8 @@ public class Main {
         Action jump = ()-> ActiveCat.jump();
         Action sleep = ()-> ActiveCat.sleep();
         Action eat = ()-> ActiveCat.eat();
+        Action run = ()-> ActiveCat.run();
+        Action doSport = ()-> ActiveCat.doSport();
         // Я Misty. Я прыгаю!
         // Я Tibbles. Я сплю!
         // Я Ginger. Я кушаю!
@@ -19,6 +21,8 @@ public class Main {
         cats.add(new ActiveCat(sleep));
         cats.add(new ActiveCat(eat));
         // добавьте ещё два-три кота, с совершенно другими действиями
+        cats.add(new ActiveCat(run));
+        cats.add(new ActiveCat(doSport));
 
         cats.forEach(ActiveCat::doAction);
     }
